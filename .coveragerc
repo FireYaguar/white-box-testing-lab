@@ -9,7 +9,6 @@ omit =
     tests/*
     setup.py
     test_*.py
-
-[html]
-directory = htmlcov
-title = Coverage Report - authenticate_user
+    build_cfg.py
+    build_cfg1.py
+    *_cfg.py
