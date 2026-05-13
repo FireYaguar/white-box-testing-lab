@@ -1,0 +1,5 @@
+networkx
+matplotlib
+coverage
+pytest
+pytest-cov
