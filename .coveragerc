@@ -1,0 +1,15 @@
+[run]
+branch = True
+source = .
+
+[report]
+show_missing = True
+skip_covered = True
+omit =
+    tests/*
+    setup.py
+    test_*.py
+
+[html]
+directory = htmlcov
+title = Coverage Report - authenticate_user
